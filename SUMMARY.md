@@ -2,5 +2,5 @@
 
 * [About Skulls](README.md)
 * Controls
-* Skulls
+* Introduction
 
