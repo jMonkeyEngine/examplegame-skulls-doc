@@ -5,4 +5,5 @@
 * [Controls](controls.md)
 * [UX](ux.md)
 * [Game Level](game_level.md)
+* Art Style
 
