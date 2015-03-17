@@ -1,5 +1,5 @@
 # Summary
 
-* Controls
 * Introduction
+* Controls
 
