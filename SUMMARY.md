@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [About Skulls](README.md)
 * Controls
 * Skulls
 
