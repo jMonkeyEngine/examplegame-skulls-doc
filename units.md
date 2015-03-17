@@ -57,4 +57,4 @@ At the start of a game, the map will be pre-populated with 10 Mini Skulls.
 ## Skull AI
 The Skull will move forward until it hits an impassable object (wall, blockade etc.) or a multiple-choice path. It will then randomly choose to turn left (90), right(90) or back (180), then continue moving forward again.
 
-(Can be made smarter, but Skull AI is intentionally simplistic for both code and gameplay reasons).
+(Can be made smarter, but Skull AI is intenowerstionally simplistic for both code and gameplay reasons).
