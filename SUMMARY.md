@@ -8,4 +8,5 @@
 * [Art Style](art_style.md)
 * [Units](units.md)
 * [Powers](powers.md)
+* Assets
 
