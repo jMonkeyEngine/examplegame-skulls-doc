@@ -3,5 +3,5 @@
 * [About Skulls](README.md)
 * [Introduction](introduction.md)
 * [Controls](controls.md)
-* UX
+* [UX](ux.md)
 
