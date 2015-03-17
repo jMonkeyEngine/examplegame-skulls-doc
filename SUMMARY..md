@@ -1,5 +1,0 @@
-# Summary
-
-* Introduction
-* Controls
-
