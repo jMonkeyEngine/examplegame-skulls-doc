@@ -11,7 +11,12 @@ End.
 ## Stretch Goals
 
 Stretch Goals
-{All random stuff that I’ve written down with no concern for scope whatsoever. The only one I would seriously consider is the responsive menu.}
+{All random stuff that I’ve written down with no concern for scope whatsoever. The only one I would seriously consider is the responsive menu and the keyboard input}
+
+### Keyboard Input
+
+>My first impression was that I was annoyed that I couldn't scroll around quickly enough, there was always someone spawning in the other corner. ;) I already need the mouse to pick powers, and apply them, and now additional to scroll.
+> I wish I could use the keyboard for selecting powers (e.g. numbers) and for scrolling (e.g. arrows). Possibly you didn't add keyboard inputs because you wanted to keep it simple. On the other hand, alternative keyboard input is a standard desktop game feature that people will want to learn about."
 
 
 ### End-game Cinematic
