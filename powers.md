@@ -44,8 +44,8 @@ Possible things to play with would be random “starting pack” so the player d
 
 - Emits a magic force in a circle with a radius of 4 tiles.
 - Field lasts for 4 seconds.
-- Any Skull touched by the field will get a Cursed status. (not visible → should they be?)
-- Cursed Skulls are permanently “invulnerable” to rituals..
+- Cursed Skulls are incable of taking part in rituals.
+- Any Skull touched by the field will get a Cursed status. (not visible → should they be?) *Ruth: Yes, any power's effect must be visible, anything that is not visible "has not happened" from the POV of the player.*
 
 
 ## Poison
@@ -63,7 +63,7 @@ Possible things to play with would be random “starting pack” so the player d
 | -- | -- |
 | 10s | Conditional |
 
-- Changes Pink to Blue (or Mutated to Blue, or Blue to Blue, or Tiny to Blue)
+- Changes Ghoul to Mummy (or Ghost to Mummy, or Mummy to Mummy, or Young to Mummy)
 - Consumed on contact
 
 ## Change to Ghoul
@@ -72,7 +72,7 @@ Possible things to play with would be random “starting pack” so the player d
 | -- | -- |
 | 10s | Conditional |
 
-- Changes Blue to Pink (or Mutated to Pink, or Pink to Pink, or Tiny to Blue)
+- Changes Mummy to Ghoul (or Ghost to Ghoul, or Ghoul to Ghoul, or Young to Ghoul)
 - Consumed on contact
 
 
@@ -83,7 +83,7 @@ Possible things to play with would be random “starting pack” so the player d
 | 6s | Conditional |
 
 - Blocks the path for Skulls.
-- Every time it collides with a Skull, it deteriorates. After 4 impacts, the stop sign is destroyed.
+- Every time it collides with a Skull, it deteriorates. After 4 impacts, the blockade is destroyed.
 
 ## Ghost Skull
 
@@ -93,5 +93,5 @@ Possible things to play with would be random “starting pack” so the player d
 
 - Behaves with same AI as other Skulls.
 - Affected by same powers as other Skulls.
-- Terminates other Skulls it comes in contact with, except other Mutated Skulls.
+- Terminates other Skulls it comes in contact with, except other Ghost Skulls.
 - Self-terminates after destroying 5 Skulls.
