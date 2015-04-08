@@ -82,7 +82,7 @@ Possible things to play with would be random “starting pack” so the player d
 | 6s | Conditional |
 
 - Blocks the path for Skulls.
-- Every time a Skull collides with Blockade, it deteriorates. After 4 impacts, the blockade is destroyed.
+- Every time a Skull collides with Blockade, it deteriorates and becomes more transparent. After 4 impacts, the blockade is destroyed.
 
 ## Ghost Skull
 
@@ -93,4 +93,4 @@ Possible things to play with would be random “starting pack” so the player d
 - Behaves according to the same AI as other Skulls.
 - Affected by same powers as other Skulls.
 - Terminates other Skulls it comes in contact with, except other Ghost Skulls.
-- Self-terminates after destroying 5 Skulls.
+- Self-terminates after destroying 5 Skulls. It fades away and becomes more transparent every time.
