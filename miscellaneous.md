@@ -25,7 +25,7 @@ Necromancer comes to fetch his souls (or whatever) and will succeed or fail. (Ru
 
 >If player wins, the cinematic shows the necromancer at his altar, eyes wide, dropping his latte macchiato, clasping his chest. His unbelieving eyes dart at the spirit-like shells of his Skulls floating up from the floor and popping weakly in midair like soap bubbles, while he shrinks and collapses to his knees. All glow fades, he becomes a mere mortal. Bats and black cats laugh at him.
 
->In the moment monsters win, the cinematic shows all Skulls stop at the same time. They turn around, and stare straight up into the players eyes and grin. They grow and glow while quickly moving into a symmetric formation along the outline of a star. A cloud of bats appears in their center out of which the necromancer rises. He grins and also glares up at the player while raising his arms. Everything starts glowing more and more until everything is blindingly white and then -- darkness. 
+>In the moment monsters win, the cinematic shows all Skulls stop at the same time. They turn around, and stare straight up into the players eyes and grin. They grow and glow while quickly moving into a symmetric formation along the outline of a star. A cloud of bats appears in their middle out of which the necromancer rises. He grins and also glares up at the player while raising his arms in a welcoming gesture. Everything starts glowing more and more until everything is blindingly white and then -- darkness. 
 
 ### Responsive menu to allow horizontal mode
 
