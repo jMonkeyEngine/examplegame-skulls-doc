@@ -4,9 +4,9 @@ The game is controlled strictly by Mouse or Touch gestures. All the player will 
 
 | *Gesture* | Mobile | PC |
 | -- | -- | -- |
-| Select/Place | Touch | Left-click |
+| Select/Place | Tap | Left-click |
 | Zoom in/out | Pinch out/in | Scroll forward/backward |
-| Move camera | Touch&hold-drag | Right-click-drag / edge detect. |
+| Move camera | Tap&hold-drag | Right-click-drag / edge detect. |
 
 
 
