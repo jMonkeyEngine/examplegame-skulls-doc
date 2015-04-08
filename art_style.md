@@ -19,7 +19,7 @@ The baseline art style is Bitgem’s Low-poly style:
 
 ### Unit Models
 
-#### Mini Skull
+#### Young Skull
 
 ![](micro_skeleton_01_1024x1024.png)
 
