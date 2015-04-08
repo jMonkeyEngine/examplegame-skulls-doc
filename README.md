@@ -1,4 +1,4 @@
-*Skulls* is an example game to be made for Desktop, Android and iOS devices. A shameless rip-off of the great [Rats!](https://www.youtube.com/watch?v=YnO406cOVmM&html5=1)
+*Skulls* is an example jme3 game for Desktop, Android and iOS devices. A shameless rip-off of the great [Rats!](https://www.youtube.com/watch?v=YnO406cOVmM&html5=1)
 
 ## Project Goals
 Official open source game project for jMonkeyEngine 3
