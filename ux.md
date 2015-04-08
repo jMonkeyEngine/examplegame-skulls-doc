@@ -2,7 +2,7 @@
 
 ## Orientation
 
-The game is only played horizontally (see stretch goals for exception). This will enable easy cross-platform development between PC and Mobile.
+The game is only played horizontally (see stretch goals for exception). This enables easy cross-platform development between PC and Mobile.
 
 ## Zoom
 
@@ -27,7 +27,7 @@ The play screen is split up into two parts. On the left is the 32x32 game map, a
 
 The in-game menu contains:
 - 8 types of powerups
-- A Skull population-meter (optionally including gender)
+- A Skull population-meter (optionally including Skull type)
 - A map (optional)
 
 ## End-game menu
