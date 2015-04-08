@@ -1,8 +1,8 @@
 # Controls
 
-The game is controlled strictly by Mouse or Touch gestures. All the player will ever have to do is make a single-item or single-tile selection, and occasionally move around the map.
+The payer controls the game strictly by Mouse or Touch gestures. All the player will ever have to do is make a single-item or single-tile selection, and occasionally move around the map.
 
-| *Gesture* | Mobile | PC |
+| *Player Action* | Mobile | PC |
 | -- | -- | -- |
 | Select/Place | Tap | Left-click |
 | Zoom in/out | Pinch out/in | Scroll forward/backward |
