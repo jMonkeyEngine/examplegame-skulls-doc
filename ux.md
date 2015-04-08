@@ -38,3 +38,7 @@ Scoring mechanic:
 - Base 600 points.
 - 1 point subtracted every second.
 - 10 points per Skull kill. (5 points per kill by ~~Mutated Skull~~ Ghost if true to original).
+
+## Effects
+
+Every activation of a power, and every status change must result in visual or auditory feedback (or both), so they players feel that they have an impact. 
