@@ -8,6 +8,17 @@
 
 End.
 
+## Notes
+
+- Game demo will be on Nicolaas de Bruyn’s Google Play account.
+- Tutorials (when we get to that point) will be on wiki.jmonkeyengine.org, but could be cross-published (e.g. pitch to tutorials site.)
+
+TODO:
+
+- Proper perspective explanation - [refpic](http://images.g4tv.com/ImageDb3/242124_l/e3-2010-bomberman-live-battlefest-screenshot.jpg)
+- clarify “max stock = 4” concept for powers
+
+
 ## Stretch Goals
 
 Stretch Goals
