@@ -31,6 +31,23 @@ Note: Essential gameplay can be achieved using only 1 base Skull with 4 variatio
 ### Free, Open Source
 Pending.
 
+## Power Assets
+
+### Proprietary
+
+N/A
+
+### Free, Open Source
+
+| Asset | Source |
+| -- | -- |
+| Bomb | ... |
+| Poison | ... |
+| Gas | ... |
+| Curse | ... |
+| M | *http://shop.bitgem3d.com/products/micro-mega-pack* |
+
+
 ## Icons
 
 ### Proprietary
