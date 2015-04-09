@@ -2,4 +2,3 @@
 
 ## Ghost
 
-NPC unit.
