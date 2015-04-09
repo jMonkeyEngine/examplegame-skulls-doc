@@ -10,5 +10,5 @@
 * [Powers](powers.md)
 * [Assets](assets.md)
 * [Miscellaneous](miscellaneous.md)
-* GLOSSARY
+* [GLOSSARY](glossary.md)
 
