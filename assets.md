@@ -45,7 +45,10 @@ N/A
 | Poison | ... |
 | Gas | ... |
 | Curse | ... |
-| M | *http://shop.bitgem3d.com/products/micro-mega-pack* |
+| Blockade | ... |
+| Switch-to-Ghoul | ... |
+| Switch-to-Mummy | ... |
+| Ghost | ... |
 
 
 ## Icons
