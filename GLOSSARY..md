@@ -1,5 +1,5 @@
 # Glossary
 
-## SADF
+## Ghost
 
-ADSF
+NPC unit.
