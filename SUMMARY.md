@@ -9,5 +9,6 @@
 * [Units](units.md)
 * [Powers](powers.md)
 * [Assets](assets.md)
+   * GLOSSARY
 * [Miscellaneous](miscellaneous.md)
 
