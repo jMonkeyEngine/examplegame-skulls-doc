@@ -2,7 +2,7 @@
 
 ## Ghost
 
-NPC unit.
+Allied NPC unit.
 
 ## Ghoul
 
