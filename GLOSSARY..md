@@ -1,5 +1,0 @@
-# Glossary
-
-## Ghost
-
-NPC unit.
