@@ -35,6 +35,7 @@ The in-game menu contains:
 At the end of a game the player will be presented with a score.
 
 Scoring mechanic:
+
 - Base 600 points.
 - 1 point subtracted every second.
 - 10 points per Skull kill. (5 points per kill by ~~Mutated Skull~~ Ghost if true to original).
