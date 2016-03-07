@@ -10,4 +10,5 @@
 * [Powers](powers.md)
 * [Assets](assets.md)
 * [Miscellaneous](miscellaneous.md)
+* Test chapter
 
