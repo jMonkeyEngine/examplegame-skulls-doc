@@ -10,6 +10,7 @@
 * [Powers](powers.md)
 * [Assets](assets.md)
 * [Miscellaneous](miscellaneous.md)
+   * another-chapter
 * [Test chapter](test_chapter.md)
    * test-article
 
